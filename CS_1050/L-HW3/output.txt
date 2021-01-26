@@ -1,0 +1,14 @@
+1109       734.55
+2229       900.00
+2371       2011.75
+3125       8779.73
+4981       537.65
+5410       1745.35
+7402       7236.20
+9036       2000.80
+
+Lowest account and it's balance: 1109      734.55
+
+Highest account and it's balance: 3125     8779.73
+
+The average amount of all account balance's: 2993.00

@@ -1,0 +1,6 @@
+1109       734.552229       900.002371       2011.753125       8779.734981       537.655410       1745.357402       7236.209036       2000.80
+Lowest account and it's balance: 1109      734.55
+
+Highest account and it's balance: 3125     8779.73
+
+The average amount of all account balance's: 2993.00
